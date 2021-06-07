@@ -22,7 +22,7 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/composition-api": "^0.24.2",
+    "@nuxtjs/composition-api": "^0.24.3",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.14.0",
     "nuxt": "^2.15.6"
